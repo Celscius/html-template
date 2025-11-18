@@ -22,3 +22,6 @@ const mailOptions = {
 
 const send = await transporter.sendMail(mailOptions);
 ```
+
+**[File Template Link](https://www.bootdey.com/snippets/view/Your-Mail-Sent-Successfully)**
+
